@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+    // Language and Environment
+    "target": "es2016" /* Set the JavaScript language version for emitted JavaScript */,
+
+    // Modules
+    "module": "commonjs" /* Specify what module code is generated. It can also be es6. JS file will change based on type of export */,
+
+    // Interop Constraints
+    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing */,
+    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
+
+    // Type Checking
+    "strict": true /* Enable all strict type-checking options. */,
+
+    /* Completeness */
+    // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+  }
+}
